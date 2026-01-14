@@ -7,7 +7,7 @@ public class Connn {
     Statement statement;
     public Connn(){
         try{
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/bankSystem","root","Amey@2004");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/bankSystem","root","Your_Mysql_Password");
             statement = connection.createStatement();
         }catch (Exception e){
             e.printStackTrace();
