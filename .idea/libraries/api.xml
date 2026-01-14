@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../jcalendar-1.4 (1)/doc/api" />
+      <root url="jar://$PROJECT_DIR$/../jcalendar-1.4 (1).zip!/doc/api" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/jcalendar-1.4 (1).zip!/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../jcalendar-1.4 (1)/src" />
+      <root url="jar://$PROJECT_DIR$/../jcalendar-1.4 (1).zip!/src" />
+      <root url="jar://$USER_HOME$/OneDrive/Desktop/jcalendar-1.4 (1).zip!/src" />
+    </SOURCES>
+  </library>
+</component>
